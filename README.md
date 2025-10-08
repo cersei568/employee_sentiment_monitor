@@ -4,8 +4,8 @@
 
 [Features](#-features) • [Demo](#-demo) • [Usage](#-usage)
 </div>
+
 ![Dashboard Preview](assets/es0.png)
----
 
 ## 📖 Overview
 
